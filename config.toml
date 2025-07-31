@@ -42,7 +42,7 @@
 		darkness_threshold = 4
 		#Players will gain this amount of sanity per second while being in the light
 		#Range: -100.0 ~ 100.0
-		lightness = 0.0
+		lightness = 0.15
 		#Minimum light level considered to be lightness (inclusive)
 		#Range: 0 ~ 15
 		lightness_threshold = 4
